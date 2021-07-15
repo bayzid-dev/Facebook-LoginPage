@@ -1,0 +1,70 @@
+
+@media screen and (max-width:1300px){
+    .left-area img{
+         width: 370px;
+         height: 250px;
+        
+        margin-right: : 100px;
+       float: none       
+           
+    
+     }
+ }
+
+
+@media screen and (max-width:980px){
+    .logo-area{
+        width: 90%;
+        float: none;
+        text-align: center;
+    }
+    .login-area{
+        width: 480px;
+        margin: auto;
+        float: none;
+    }
+    login-area form{
+        float: none
+    }
+    .signup-area{
+        background: #fff;
+    }
+    .left-area{
+        width: 100%;
+        float: none;
+    }
+    .right-area{
+        width: 100%;
+        float: none;
+    }
+    .signup-area img{
+        width: 100%;
+        height: 100%;
+}
+@media screen and (max-width: 768px){
+    .logo-area{
+        width: 50%;
+        float: none;
+       margin: 12px auto;
+    }
+    .login-area{
+        width: 150px;
+        float: none;
+        margin: auto
+          
+    }
+    login-area form{
+        float: none;
+        width: 100
+    }
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
